@@ -1,13 +1,24 @@
 DJANGO_APP := data_viewer
-FIXTURE := $(DJANGO_APP)/fixtures/initial_data.yaml
+DATASETS_SRC := ../../../dataset/src
+DATASETS_DIR := ../../../dataset/csv
+DATASETS := $(shell cd $(DATASETS_SRC); echo *)
+FIXTURES_DIR := $(DJANGO_APP)/fixtures
+FIXTURES := $(DATASETS:%=$(FIXTURES_DIR)/%.yaml)
 
 default:
 
-fixture: $(FIXTURE)
+all: fixtures
 
-$(FIXTURE): $(DATASET)
+fixtures: $(FIXTURES)
 
+$(FIXTURES):
+	perl ./src/bin/csv-to-fixture.pl \
+	    $(DATASETS_DIR)/$(@:$(FIXTURES_DIR)/%.yaml=%).csv > $@
 
 clean:
 	git clean -dxf
 
+clean-fixtures:
+	rm -f $(FIXTURES_DIR)/*
+
+force:
