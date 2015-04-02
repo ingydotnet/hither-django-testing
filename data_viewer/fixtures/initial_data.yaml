@@ -1,0 +1,811 @@
+---
+- fields:
+    camera_label: Airport Way S & S Norfolk St
+    x_pos: '-122.28819'
+    y_pos: '47.51369'
+  model: data_viewer.trafficcams
+  pk: 1
+- fields:
+    camera_label: Rainier Ave S & S Henderson St
+    x_pos: '-122.26989'
+    y_pos: '47.52345'
+  model: data_viewer.trafficcams
+  pk: 2
+- fields:
+    camera_label: 14th Ave S & S Cloverdale St
+    x_pos: '-122.31476'
+    y_pos: '47.5264'
+  model: data_viewer.trafficcams
+  pk: 3
+- fields:
+    camera_label: Fauntleroy SW & SW Cloverdale St
+    x_pos: '-122.39281'
+    y_pos: '47.52671'
+  model: data_viewer.trafficcams
+  pk: 4
+- fields:
+    camera_label: E Marginal Way S & 16th Ave S
+    x_pos: '-122.31321'
+    y_pos: '47.53436'
+  model: data_viewer.trafficcams
+  pk: 5
+- fields:
+    camera_label: SR-99 @ West Marginal Way
+    x_pos: '-122.33367'
+    y_pos: '47.5365'
+  model: data_viewer.trafficcams
+  pk: 6
+- fields:
+    camera_label: MLK Way S & S Othello St - NS
+    x_pos: '-122.28111'
+    y_pos: '47.53689'
+  model: data_viewer.trafficcams
+  pk: 7
+- fields:
+    camera_label: MLK Way S & S Othello St - EW
+    x_pos: '-122.28057'
+    y_pos: '47.53709'
+  model: data_viewer.trafficcams
+  pk: 8
+- fields:
+    camera_label: Airport Way S & S Othello St
+    x_pos: '-122.3022'
+    y_pos: '47.53744'
+  model: data_viewer.trafficcams
+  pk: 9
+- fields:
+    camera_label: I-5 @ Mid Boeing Field
+    x_pos: '-122.30024'
+    y_pos: '47.53815'
+  model: data_viewer.trafficcams
+  pk: 10
+- fields:
+    camera_label: E Marginal Way S & S Michigan St
+    x_pos: '-122.33137'
+    y_pos: '47.545'
+  model: data_viewer.trafficcams
+  pk: 11
+- fields:
+    camera_label: 4th Ave S & S Michigan St
+    x_pos: '-122.32968'
+    y_pos: '47.54544'
+  model: data_viewer.trafficcams
+  pk: 12
+- fields:
+    camera_label: SR-520 East Highrise
+    x_pos: '-122.33409'
+    y_pos: '47.54612'
+  model: data_viewer.trafficcams
+  pk: 13
+- fields:
+    camera_label: Corson Ave S & S Bailey St
+    x_pos: '-122.3213'
+    y_pos: '47.54742'
+  model: data_viewer.trafficcams
+  pk: 14
+- fields:
+    camera_label: 1st Ave S & E Marginal Way
+    x_pos: '-122.33421'
+    y_pos: '47.54833'
+  model: data_viewer.trafficcams
+  pk: 15
+- fields:
+    camera_label: I-5 @ S Albro St
+    x_pos: '-122.31173'
+    y_pos: '47.54856'
+  model: data_viewer.trafficcams
+  pk: 16
+- fields:
+    camera_label: Rainier Ave S & S Hudson St
+    x_pos: '-122.28468'
+    y_pos: '47.55696'
+  model: data_viewer.trafficcams
+  pk: 17
+- fields:
+    camera_label: E Marginal Way S & S Hudson St
+    x_pos: '-122.33923'
+    y_pos: '47.55746'
+  model: data_viewer.trafficcams
+  pk: 18
+- fields:
+    camera_label: MLK Way S & S Alaska St - EW
+    x_pos: '-122.2926'
+    y_pos: '47.56083'
+  model: data_viewer.trafficcams
+  pk: 19
+- fields:
+    camera_label: California Ave SW & SW Alaska St
+    x_pos: '-122.3869'
+    y_pos: '47.56097'
+  model: data_viewer.trafficcams
+  pk: 20
+- fields:
+    camera_label: 42nd Ave SW & SW Alaska St
+    x_pos: '-122.38532'
+    y_pos: '47.56099'
+  model: data_viewer.trafficcams
+  pk: 21
+- fields:
+    camera_label: Fauntleroy Way SW & SW Alaska St
+    x_pos: '-122.38128'
+    y_pos: '47.56119'
+  model: data_viewer.trafficcams
+  pk: 22
+- fields:
+    camera_label: E Marginal Way S & S Idaho St
+    x_pos: '-122.33953'
+    y_pos: '47.56432'
+  model: data_viewer.trafficcams
+  pk: 23
+- fields:
+    camera_label: 35th Ave SW & SW Fauntleroy
+    x_pos: '-122.3761'
+    y_pos: '47.56494'
+  model: data_viewer.trafficcams
+  pk: 24
+- fields:
+    camera_label: Airport Way S & S Industrial Way
+    x_pos: '-122.32287'
+    y_pos: '47.56494'
+  model: data_viewer.trafficcams
+  pk: 25
+- fields:
+    camera_label: West Seattle Fwy Pullout
+    x_pos: '-122.37297'
+    y_pos: '47.56978'
+  model: data_viewer.trafficcams
+  pk: 26
+- fields:
+    camera_label: W Seattle Bridge Mid
+    x_pos: '-122.34991'
+    y_pos: '47.57088'
+  model: data_viewer.trafficcams
+  pk: 27
+- fields:
+    camera_label: W Seattle Bridge West
+    x_pos: '-122.35652'
+    y_pos: '47.57118'
+  model: data_viewer.trafficcams
+  pk: 28
+- fields:
+    camera_label: 6th Ave S & S Spokane St
+    x_pos: '-122.32593'
+    y_pos: '47.57125'
+  model: data_viewer.trafficcams
+  pk: 29
+- fields:
+    camera_label: 11th Ave SW & SW Spokane St
+    x_pos: '-122.3491'
+    y_pos: '47.57161'
+  model: data_viewer.trafficcams
+  pk: 30
+- fields:
+    camera_label: Chelan Ave SW & W Marginal Way SW
+    x_pos: '-122.36021'
+    y_pos: '47.57209'
+  model: data_viewer.trafficcams
+  pk: 31
+- fields:
+    camera_label: I-5 @ S Spokane St
+    x_pos: '-122.31949'
+    y_pos: '47.57278'
+  model: data_viewer.trafficcams
+  pk: 32
+- fields:
+    camera_label: E Marginal Way S & S Hanford St
+    x_pos: '-122.33994'
+    y_pos: '47.57576'
+  model: data_viewer.trafficcams
+  pk: 33
+- fields:
+    camera_label: SR99 & Lander St
+    x_pos: '-122.33951'
+    y_pos: '47.57975'
+  model: data_viewer.trafficcams
+  pk: 34
+- fields:
+    camera_label: 3rd Ave S & S Lander St
+    x_pos: '-122.33064'
+    y_pos: '47.57985'
+  model: data_viewer.trafficcams
+  pk: 35
+- fields:
+    camera_label: Airport Way S & S Lander St
+    x_pos: '-122.3213'
+    y_pos: '47.57991'
+  model: data_viewer.trafficcams
+  pk: 36
+- fields:
+    camera_label: I-5 @ S Holgate St
+    x_pos: '-122.32322'
+    y_pos: '47.5861'
+  model: data_viewer.trafficcams
+  pk: 37
+- fields:
+    camera_label: 1st Ave S & S Holgate St
+    x_pos: '-122.33436'
+    y_pos: '47.58621'
+  model: data_viewer.trafficcams
+  pk: 38
+- fields:
+    camera_label: I-90 Midspan
+    x_pos: '-122.27021'
+    y_pos: '47.58989'
+  model: data_viewer.trafficcams
+  pk: 39
+- fields:
+    camera_label: 1st Ave S & S Atlantic St
+    x_pos: '-122.33405'
+    y_pos: '47.59014'
+  model: data_viewer.trafficcams
+  pk: 40
+- fields:
+    camera_label: SR-520 East Highrise
+    x_pos: '-122.29969'
+    y_pos: '47.59014'
+  model: data_viewer.trafficcams
+  pk: 41
+- fields:
+    camera_label: I-90 @ 18th Ave S
+    x_pos: '-122.28579'
+    y_pos: '47.59024'
+  model: data_viewer.trafficcams
+  pk: 42
+- fields:
+    camera_label: 4th Ave S & S Atlantic St
+    x_pos: '-122.32844'
+    y_pos: '47.59034'
+  model: data_viewer.trafficcams
+  pk: 43
+- fields:
+    camera_label: 1st Ave S & S Royal Brougham Way
+    x_pos: '-122.33438'
+    y_pos: '47.59226'
+  model: data_viewer.trafficcams
+  pk: 44
+- fields:
+    camera_label: 4th Ave S @ I-90 TD
+    x_pos: '-122.32924'
+    y_pos: '47.59341'
+  model: data_viewer.trafficcams
+  pk: 45
+- fields:
+    camera_label: I-5 @ I-90 Interchange
+    x_pos: '-122.32036'
+    y_pos: '47.59365'
+  model: data_viewer.trafficcams
+  pk: 46
+- fields:
+    camera_label: Rainier Ave S & S Dearborn St
+    x_pos: '-122.31155'
+    y_pos: '47.59577'
+  model: data_viewer.trafficcams
+  pk: 47
+- fields:
+    camera_label: 5th Ave S & S Dearborn St
+    x_pos: '-122.32779'
+    y_pos: '47.59587'
+  model: data_viewer.trafficcams
+  pk: 48
+- fields:
+    camera_label: 4th Ave S & S Jackson St
+    x_pos: '-122.32915'
+    y_pos: '47.59912'
+  model: data_viewer.trafficcams
+  pk: 49
+- fields:
+    camera_label: 23rd Ave S & S Jackson St - EW
+    x_pos: '-122.30233'
+    y_pos: '47.59932'
+  model: data_viewer.trafficcams
+  pk: 50
+- fields:
+    camera_label: 23rd Ave S & S Jackson St - NS
+    x_pos: '-122.30214'
+    y_pos: '47.59939'
+  model: data_viewer.trafficcams
+  pk: 51
+- fields:
+    camera_label: Alaskan Way & S Washington St
+    x_pos: '-122.33583'
+    y_pos: '47.60013'
+  model: data_viewer.trafficcams
+  pk: 52
+- fields:
+    camera_label: I-5 @ Yesler St
+    x_pos: '-122.32378'
+    y_pos: '47.60053'
+  model: data_viewer.trafficcams
+  pk: 53
+- fields:
+    camera_label: 12th Ave S & Boren Ave S
+    x_pos: '-122.31711'
+    y_pos: '47.60081'
+  model: data_viewer.trafficcams
+  pk: 54
+- fields:
+    camera_label: 5th Ave & James St
+    x_pos: '-122.32912'
+    y_pos: '47.60381'
+  model: data_viewer.trafficcams
+  pk: 55
+- fields:
+    camera_label: 9th & James
+    x_pos: '-122.32454'
+    y_pos: '47.60555'
+  model: data_viewer.trafficcams
+  pk: 56
+- fields:
+    camera_label: 23rd Ave E & E Cherry St - EW
+    x_pos: '-122.30262'
+    y_pos: '47.60797'
+  model: data_viewer.trafficcams
+  pk: 57
+- fields:
+    camera_label: 23rd Ave E & E Cherry St - NS
+    x_pos: '-122.30268'
+    y_pos: '47.60812'
+  model: data_viewer.trafficcams
+  pk: 58
+- fields:
+    camera_label: Boren & Madison
+    x_pos: '-122.32534'
+    y_pos: '47.60934'
+  model: data_viewer.trafficcams
+  pk: 59
+- fields:
+    camera_label: Boren & Seneca
+    x_pos: '-122.32645'
+    y_pos: '47.61064'
+  model: data_viewer.trafficcams
+  pk: 60
+- fields:
+    camera_label: 2nd & Stewart
+    x_pos: '-122.34027'
+    y_pos: '47.61094'
+  model: data_viewer.trafficcams
+  pk: 61
+- fields:
+    camera_label: SR99 Viaduct & Blanchard St
+    x_pos: '-122.34659'
+    y_pos: '47.61154'
+  model: data_viewer.trafficcams
+  pk: 62
+- fields:
+    camera_label: 7th Ave & Pike St
+    x_pos: '-122.33351'
+    y_pos: '47.61162'
+  model: data_viewer.trafficcams
+  pk: 63
+- fields:
+    camera_label: Broadway & E Pike St - NS
+    x_pos: '-122.3209'
+    y_pos: '47.61395'
+  model: data_viewer.trafficcams
+  pk: 64
+- fields:
+    camera_label: Broadway & E Pike St - EW
+    x_pos: '-122.32058'
+    y_pos: '47.614'
+  model: data_viewer.trafficcams
+  pk: 65
+- fields:
+    camera_label: 8th Ave & Howell St
+    x_pos: '-122.33375'
+    y_pos: '47.61409'
+  model: data_viewer.trafficcams
+  pk: 66
+- fields:
+    camera_label: I-5 @ Pine St
+    x_pos: '-122.32965'
+    y_pos: '47.61453'
+  model: data_viewer.trafficcams
+  pk: 67
+- fields:
+    camera_label: 16th Ave E & E Madison St
+    x_pos: '-122.31143'
+    y_pos: '47.61513'
+  model: data_viewer.trafficcams
+  pk: 68
+- fields:
+    camera_label: Elliott & Broad
+    x_pos: '-122.35417'
+    y_pos: '47.61547'
+  model: data_viewer.trafficcams
+  pk: 69
+- fields:
+    camera_label: Boren & Howell
+    x_pos: '-122.33159'
+    y_pos: '47.61614'
+  model: data_viewer.trafficcams
+  pk: 70
+- fields:
+    camera_label: Denny,Stewart,Yale
+    x_pos: '-122.33091'
+    y_pos: '47.61843'
+  model: data_viewer.trafficcams
+  pk: 71
+- fields:
+    camera_label: Dexter & Denny
+    x_pos: '-122.34222'
+    y_pos: '47.61848'
+  model: data_viewer.trafficcams
+  pk: 72
+- fields:
+    camera_label: Denny Way & 4th Ave N
+    x_pos: '-122.34876'
+    y_pos: '47.6185'
+  model: data_viewer.trafficcams
+  pk: 73
+- fields:
+    camera_label: 1st Ave & Denny Way
+    x_pos: '-122.35557'
+    y_pos: '47.61851'
+  model: data_viewer.trafficcams
+  pk: 74
+- fields:
+    camera_label: 23rd Ave E & E Madison St - EW
+    x_pos: '-122.30268'
+    y_pos: '47.61917'
+  model: data_viewer.trafficcams
+  pk: 75
+- fields:
+    camera_label: 23rd Ave E & E Madison St - NS
+    x_pos: '-122.30244'
+    y_pos: '47.61939'
+  model: data_viewer.trafficcams
+  pk: 76
+- fields:
+    camera_label: Eastlake Ave & Stewart St
+    x_pos: '-122.32904'
+    y_pos: '47.61969'
+  model: data_viewer.trafficcams
+  pk: 77
+- fields:
+    camera_label: Western & Elliott
+    x_pos: '-122.3599'
+    y_pos: '47.62002'
+  model: data_viewer.trafficcams
+  pk: 78
+- fields:
+    camera_label: Queen Anne Ave N & Mercer St
+    x_pos: '-122.3566'
+    y_pos: '47.62446'
+  model: data_viewer.trafficcams
+  pk: 79
+- fields:
+    camera_label: Aurora Ave N & Mercer St
+    x_pos: '-122.34356'
+    y_pos: '47.62451'
+  model: data_viewer.trafficcams
+  pk: 80
+- fields:
+    camera_label: Fairview & Mercer
+    x_pos: '-122.33438'
+    y_pos: '47.62462'
+  model: data_viewer.trafficcams
+  pk: 81
+- fields:
+    camera_label: Broadway & E Roy St
+    x_pos: '-122.32086'
+    y_pos: '47.62512'
+  model: data_viewer.trafficcams
+  pk: 82
+- fields:
+    camera_label: I-5 @ Mercer St
+    x_pos: '-122.32849'
+    y_pos: '47.6256'
+  model: data_viewer.trafficcams
+  pk: 83
+- fields:
+    camera_label: Westlake & Broad
+    x_pos: '-122.33861'
+    y_pos: '47.62561'
+  model: data_viewer.trafficcams
+  pk: 84
+- fields:
+    camera_label: Fairview & Valley
+    x_pos: '-122.33426'
+    y_pos: '47.62621'
+  model: data_viewer.trafficcams
+  pk: 85
+- fields:
+    camera_label: Elliott Ave W & W Mercer Pl
+    x_pos: '-122.36836'
+    y_pos: '47.62649'
+  model: data_viewer.trafficcams
+  pk: 86
+- fields:
+    camera_label: Aurora Ave N & Aloha St
+    x_pos: '-122.34367'
+    y_pos: '47.62661'
+  model: data_viewer.trafficcams
+  pk: 87
+- fields:
+    camera_label: Aurora Ave N & Ward St
+    x_pos: '-122.34354'
+    y_pos: '47.62793'
+  model: data_viewer.trafficcams
+  pk: 88
+- fields:
+    camera_label: SR-520 East Highrise
+    x_pos: '-122.25642'
+    y_pos: '47.63994'
+  model: data_viewer.trafficcams
+  pk: 89
+- fields:
+    camera_label: Montlake Blvd E & E Lake Wash Blvd
+    x_pos: '-122.30412'
+    y_pos: '47.64387'
+  model: data_viewer.trafficcams
+  pk: 90
+- fields:
+    camera_label: SR-520 @ Montlake Blvd
+    x_pos: '-122.30519'
+    y_pos: '47.64394'
+  model: data_viewer.trafficcams
+  pk: 91
+- fields:
+    camera_label: SR-520 @ West Highrise
+    x_pos: '-122.28833'
+    y_pos: '47.64476'
+  model: data_viewer.trafficcams
+  pk: 92
+- fields:
+    camera_label: 4th Ave N & Dexter Ave N
+    x_pos: '-122.34977'
+    y_pos: '47.64606'
+  model: data_viewer.trafficcams
+  pk: 93
+- fields:
+    camera_label: 15th Ave W & W Dravus St
+    x_pos: '-122.3764'
+    y_pos: '47.64844'
+  model: data_viewer.trafficcams
+  pk: 94
+- fields:
+    camera_label: Montlake Blvd NE & NE Pacific St
+    x_pos: '-122.30468'
+    y_pos: '47.64922'
+  model: data_viewer.trafficcams
+  pk: 95
+- fields:
+    camera_label: Eastlake Ave E & Harvard Ave E
+    x_pos: '-122.32204'
+    y_pos: '47.65044'
+  model: data_viewer.trafficcams
+  pk: 96
+- fields:
+    camera_label: Fremont Ave N & N 36th St
+    x_pos: '-122.34988'
+    y_pos: '47.65143'
+  model: data_viewer.trafficcams
+  pk: 97
+- fields:
+    camera_label: Evanston Ave N & N 36th St
+    x_pos: '-122.3513'
+    y_pos: '47.65154'
+  model: data_viewer.trafficcams
+  pk: 98
+- fields:
+    camera_label: 15th Ave W & W Emerson St
+    x_pos: '-122.37612'
+    y_pos: '47.65408'
+  model: data_viewer.trafficcams
+  pk: 99
+- fields:
+    camera_label: Montlake Blvd NE & 25th Ave NE
+    x_pos: '-122.30071'
+    y_pos: '47.6598'
+  model: data_viewer.trafficcams
+  pk: 100
+- fields:
+    camera_label: NE 45th St & Union Bay Pl
+    x_pos: '-122.29531'
+    y_pos: '47.66131'
+  model: data_viewer.trafficcams
+  pk: 101
+- fields:
+    camera_label: I-5 @ NE 45th St
+    x_pos: '-122.32215'
+    y_pos: '47.66133'
+  model: data_viewer.trafficcams
+  pk: 102
+- fields:
+    camera_label: Aurora Ave N & N 46th St
+    x_pos: '-122.34743'
+    y_pos: '47.6617'
+  model: data_viewer.trafficcams
+  pk: 103
+- fields:
+    camera_label: 15th Ave NW & NW Leary Way
+    x_pos: '-122.37593'
+    y_pos: '47.6636'
+  model: data_viewer.trafficcams
+  pk: 104
+- fields:
+    camera_label: 15th Ave NW & NW Market St - NS
+    x_pos: '-122.37631'
+    y_pos: '47.66852'
+  model: data_viewer.trafficcams
+  pk: 105
+- fields:
+    camera_label: 15th Ave NW & NW Market St - EW
+    x_pos: '-122.37595'
+    y_pos: '47.6686'
+  model: data_viewer.trafficcams
+  pk: 106
+- fields:
+    camera_label: 15th Ave NW & NW 65th St - NS
+    x_pos: '-122.37621'
+    y_pos: '47.6759'
+  model: data_viewer.trafficcams
+  pk: 107
+- fields:
+    camera_label: 15th Ave NW & NW 65th St - EW
+    x_pos: '-122.37671'
+    y_pos: '47.67611'
+  model: data_viewer.trafficcams
+  pk: 108
+- fields:
+    camera_label: 25th Ave NE & NE 65th St
+    x_pos: '-122.30073'
+    y_pos: '47.67669'
+  model: data_viewer.trafficcams
+  pk: 109
+- fields:
+    camera_label: I-5 @ Lake City Way
+    x_pos: '-122.32067'
+    y_pos: '47.68137'
+  model: data_viewer.trafficcams
+  pk: 110
+- fields:
+    camera_label: Roosevelt Way NE & NE 75th St
+    x_pos: '-122.31757'
+    y_pos: '47.6825'
+  model: data_viewer.trafficcams
+  pk: 111
+- fields:
+    camera_label: Aurora Ave N & Winona Ave N
+    x_pos: '-122.34439'
+    y_pos: '47.68294'
+  model: data_viewer.trafficcams
+  pk: 112
+- fields:
+    camera_label: LCW & 15th Ave NE - EW
+    x_pos: '-122.31221'
+    y_pos: '47.68658'
+  model: data_viewer.trafficcams
+  pk: 113
+- fields:
+    camera_label: LCW & 15th Ave NE - NS
+    x_pos: '-122.31085'
+    y_pos: '47.68835'
+  model: data_viewer.trafficcams
+  pk: 114
+- fields:
+    camera_label: I-5 @ NE 85th st
+    x_pos: '-122.32895'
+    y_pos: '47.6905'
+  model: data_viewer.trafficcams
+  pk: 115
+- fields:
+    camera_label: 15th Ave NW & NW 85th St
+    x_pos: '-122.3769'
+    y_pos: '47.6905'
+  model: data_viewer.trafficcams
+  pk: 116
+- fields:
+    camera_label: Aurora Ave N & N 85th St
+    x_pos: '-122.34638'
+    y_pos: '47.69051'
+  model: data_viewer.trafficcams
+  pk: 117
+- fields:
+    camera_label: Aurora Ave N & N 87th St
+    x_pos: '-122.34463'
+    y_pos: '47.69195'
+  model: data_viewer.trafficcams
+  pk: 118
+- fields:
+    camera_label: Aurora Ave N & N 90th St
+    x_pos: '-122.34447'
+    y_pos: '47.69428'
+  model: data_viewer.trafficcams
+  pk: 119
+- fields:
+    camera_label: Aurora Ave N & N 103rd St
+    x_pos: '-122.34458'
+    y_pos: '47.70294'
+  model: data_viewer.trafficcams
+  pk: 120
+- fields:
+    camera_label: Aurora Ave N & N 105th St
+    x_pos: '-122.34426'
+    y_pos: '47.70499'
+  model: data_viewer.trafficcams
+  pk: 121
+- fields:
+    camera_label: I-5 @ Northgate Way
+    x_pos: '-122.33001'
+    y_pos: '47.70592'
+  model: data_viewer.trafficcams
+  pk: 122
+- fields:
+    camera_label: 5th Ave NE & NE Northgate Way
+    x_pos: '-122.3233'
+    y_pos: '47.70775'
+  model: data_viewer.trafficcams
+  pk: 123
+- fields:
+    camera_label: 5th Ave NE & NE Northgate Way
+    x_pos: '-122.32476'
+    y_pos: '47.70867'
+  model: data_viewer.trafficcams
+  pk: 124
+- fields:
+    camera_label: 1st Ave NE & NE Northgate Way
+    x_pos: '-122.32876'
+    y_pos: '47.70886'
+  model: data_viewer.trafficcams
+  pk: 125
+- fields:
+    camera_label: Aurora Ave N & N 117 Pl
+    x_pos: '-122.34476'
+    y_pos: '47.71467'
+  model: data_viewer.trafficcams
+  pk: 126
+- fields:
+    camera_label: LCW & NE 125th St - NS
+    x_pos: '-122.29561'
+    y_pos: '47.71848'
+  model: data_viewer.trafficcams
+  pk: 127
+- fields:
+    camera_label: LCW & NE 125th St - EW
+    x_pos: '-122.29404'
+    y_pos: '47.71933'
+  model: data_viewer.trafficcams
+  pk: 128
+- fields:
+    camera_label: Aurora Ave N & N 130th St - NS
+    x_pos: '-122.34507'
+    y_pos: '47.72293'
+  model: data_viewer.trafficcams
+  pk: 129
+- fields:
+    camera_label: Aurora Ave N & N 130th St - EW
+    x_pos: '-122.34683'
+    y_pos: '47.72328'
+  model: data_viewer.trafficcams
+  pk: 130
+- fields:
+    camera_label: LCW & NE 145th St - NS
+    x_pos: '-122.29229'
+    y_pos: '47.73215'
+  model: data_viewer.trafficcams
+  pk: 131
+- fields:
+    camera_label: Aurora Ave N & N 145th St - NS
+    x_pos: '-122.34518'
+    y_pos: '47.73341'
+  model: data_viewer.trafficcams
+  pk: 132
+- fields:
+    camera_label: LCW & NE 145th St - EW
+    x_pos: '-122.29159'
+    y_pos: '47.73383'
+  model: data_viewer.trafficcams
+  pk: 133
+- fields:
+    camera_label: I-5 @ NE 145th St
+    x_pos: '-122.3228'
+    y_pos: '47.73405'
+  model: data_viewer.trafficcams
+  pk: 134
+- fields:
+    camera_label: Aurora Ave N & N 145th St - EW
+    x_pos: '-122.34487'
+    y_pos: '47.73407'
+  model: data_viewer.trafficcams
+  pk: 135
